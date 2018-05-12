@@ -1,0 +1,34 @@
+_repo: La-Saga-de-Njal_19440
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Dareste, Rodolphe
+    aliases:
+    - Dareste de La Chavanne, Rodolphe
+    - Chavanne, Rodolphe Dareste de La
+    birthdate: 1824
+    deathdate: 1911
+    gutenberg_agent_id: '8674'
+    url: http://www.gutenberg.org/2009/agents/8674
+    wikipedia: http://en.wikipedia.org/wiki/Rodolphe-Madeleine_Cleophas_Dareste_de_la_Chavanne
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- FR Littérature
+gutenberg_issued: '2006-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19440'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sagas -- Translations into French'
+- !lcsh 'Njáll Thorgursson, approximately 930-1011'
+- !lcc 'PT'
+title: La Saga de Njal
+url: http://www.gutenberg.org/ebooks/19440
